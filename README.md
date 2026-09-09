@@ -27,7 +27,7 @@ cd bns-otpking
 ### 2. Install Dependencies
 \`\`\`bash
 npm install
-\`\`\`
+\`\`\`'
 
 ### 3. Environment Setup
 \`\`\`bash
